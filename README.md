@@ -7,7 +7,7 @@
 ## 🦒 Colab
 | colab | Info - Model Page
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/japanese-text-generation-webui-colab/blob/main/line-3.6b-instruction.ipynb) | line-3.6b-instruction <br /> https://ai.meta.com/llama/ <br /> https://huggingface.co/line-corporation/japanese-large-lm-3.6b-instruction-sft
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/japanese-text-generation-webui-colab/blob/main/japanese-large-lm-3.6b-instruction-sft.ipynb) | japanese-large-lm-3.6b-instruction-sft <br /> https://ai.meta.com/llama/ <br /> https://huggingface.co/line-corporation/japanese-large-lm-3.6b-instruction-sft
 
 
 ## Tutorial
