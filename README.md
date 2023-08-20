@@ -23,4 +23,4 @@ https://www.youtube.com/watch?v=kgA7eKU1XuA
 
 
 ## Special Thanks
-
+Thanks to @nqdior ❤ for the https://github.com/nqdior/text-generation-webui
