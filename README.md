@@ -27,4 +27,4 @@ llama-2 | https://ai.meta.com/llama/ Llama 2 is available for free for research 
 
 
 ## Special Thanks
-Thanks to @nqdior ❤ for the https://github.com/nqdior/text-generation-webui and for the support
+Thanks to @nqdior ❤ for the https://github.com/nqdior/text-generation-webui and for the support ❤
