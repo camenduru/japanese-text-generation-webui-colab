@@ -22,6 +22,8 @@ https://www.youtube.com/watch?v=kgA7eKU1XuA
 ## Models License
 | Model | License
 | --- | --- |
+gpt-neox | https://github.com/EleutherAI/gpt-neox
+llama-2 | https://ai.meta.com/llama/ Llama 2 is available for free for research and commercial use. 🥳
 
 
 ## Special Thanks
